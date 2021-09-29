@@ -7,14 +7,14 @@ disqusShortname = ""           # Enable Disqus comments by entering your Disqus 
 googleAnalytics = ""           # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-name = "John Doe"
-bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+name = "しか"
+bio = "Web系エンジニア 使用言語は主にPythonかTypeScript"
 avatar = "img/avatar.png"
 
 [Params]
 subtitle = "" # Deprecated in favor of .Site.Params.logo.subtitle
-description = "John Doe's Personal blog about everything" # Site description. Used in meta description
-copyright = "John Doe" # Footer copyright holder, otherwise will use site title
+description = "IT, プログラミングの技術書のレビューや解説をするブログ." # Site description. Used in meta description
+copyright = "しか" # Footer copyright holder, otherwise will use site title
 opengraph = true # Enable OpenGraph if true
 schema = true # Enable Schema
 twitter_cards = true # Enable Twitter Cards if true
@@ -52,8 +52,8 @@ fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono
 
 [Params.logo]
 image = "img/placeholder.png"  # Logo image. Path relative to "static"
-title = "Mainroad"             # Logo title, otherwise will use site title
-subtitle = "Just another site" # Logo subtitle
+title = "IT・プログラミング技術書レビューブログ"             # Logo title, otherwise will use site title
+#subtitle = "Just another site" # Logo subtitle
 
 [Params.thumbnail]
 visibility = ["list", "post"] # Control thumbnail visibility
