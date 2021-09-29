@@ -75,14 +75,14 @@ tags_counter = false       # Enable counter for each tag in "Tags" widget
 [Params.widgets.social]
 # Enable parts of social widget
 #facebook = "username"
-twitter = "kinoko_tz"
+twitter = "import_shika"
 #instagram = "username"
 #linkedin = "username"
 #telegram = "username"
 #github = "username"
 #gitlab = "username"
 #bitbucket = "username"
-email = "finalfantasy.rilakkuma@gmail.com"
+#email = "finalfantasy.rilakkuma@gmail.com"
 
 # Custom social links
 #[[Params.widgets.social.custom]]
