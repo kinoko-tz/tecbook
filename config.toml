@@ -51,8 +51,8 @@ fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
 fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-image = "img/placeholder.png"  # Logo image. Path relative to "static"
-title = "IT・プログラミング技術書レビューブログ"             # Logo title, otherwise will use site title
+image = "img/book_inu_yomu.png" # Logo image. Path relative to "static"
+title = "IT・プログラミング技術書レビューブログ"  # Logo title, otherwise will use site title
 #subtitle = "Just another site" # Logo subtitle
 
 [Params.thumbnail]
